@@ -18,3 +18,14 @@ body{
 #container h1 {
     font-size: 30px;
 }
+#cabecera{
+    width: 70%;
+    background: #88f;
+    color: #fff;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 0.5em;
+    box-shadow: 7px 35px 88px 20px rgba(0,0,0,0.86);
+    -webkit-box-shadow: 7px 35px 88px 20px rgba(0,0,0,0.86);
+    -moz-box-shadow: 7px 35px 88px 20px rgba(0,0,0,0.86);
+}

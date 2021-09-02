@@ -13,6 +13,7 @@ body{
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    color: red;
 }
 
 #container h1 {
@@ -28,4 +29,7 @@ body{
     box-shadow: 7px 35px 88px 20px rgba(0,0,0,0.86);
     -webkit-box-shadow: 7px 35px 88px 20px rgba(0,0,0,0.86);
     -moz-box-shadow: 7px 35px 88px 20px rgba(0,0,0,0.86);
+}
+#tagline{
+    font-size: 16px;
 }

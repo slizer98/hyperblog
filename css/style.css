@@ -1,5 +1,5 @@
 body{
-    color: #333;
+    color: blue;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
@@ -28,4 +28,7 @@ body{
     box-shadow: 7px 35px 88px 20px rgba(0,0,0,0.86);
     -webkit-box-shadow: 7px 35px 88px 20px rgba(0,0,0,0.86);
     -moz-box-shadow: 7px 35px 88px 20px rgba(0,0,0,0.86);
+}
+#tagline{
+    font-size: 16px;
 }
